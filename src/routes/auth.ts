@@ -1,0 +1,11 @@
+import express from "express";
+import "dotenv/config";;
+import { login } from "../controllers/authControllers";
+import { verifyToken } from "../middlewares/authMiddleware";
+
+
+const router = express.Router();
+
+router.post("/login", login);
+
+export default router;
