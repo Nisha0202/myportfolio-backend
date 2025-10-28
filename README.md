@@ -1,10 +1,8 @@
-Here’s your README rewritten with **proper Markdown syntax**, clean formatting, and consistent code block usage 👇
 
----
 
 # 📦 Portfolio Backend API
 
-🚀 **Live API:** [https://your-portfolio-api.herokuapp.com](https://your-portfolio-api.herokuapp.com)
+🚀 **Live API:** [https://myportfolio-backend-chi.vercel.app/api](https://myportfolio-backend-chi.vercel.app/api)
 
 ## 🧭 Overview
 
@@ -72,8 +70,8 @@ DELETE /projects/:id    # Delete project
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/portfolio-backend.git
-cd portfolio-backend
+git clone https://github.com/Nisha0202/myportfolio-backend
+cd myportfolio-backend
 ```
 
 ### 2️⃣ Setup Environment Variables
